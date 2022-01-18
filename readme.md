@@ -1,3 +1,12 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.id-id) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.id-id).
+
 # Dasar-Dasar Data Azure
 
 Repositori ini berisi latihan lab praktik langsung untuk kursus Microsoft [DP-900 *Dasar-Dasar Data Azure*](https://docs.microsoft.com/id-id/learn/certifications/courses/dp-900t00) dan [modul mandiri terkait Microsoft Learn](https://docs.microsoft.com/id-id/users/23110622/collections/0kjyh8rn5gdrjj/). Lab ini dirancang untuk melengkapi materi pembelajaran dan memungkinkan Anda mempraktikkan teknologi yang dijelaskan. 
